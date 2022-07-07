@@ -7,3 +7,7 @@ Now we save this file and check with the commands ls, pwd, git add, git status, 
 Until now we used push command to push the data from local repo to remote/central repo
 Now we are going to use pull request, to get the data from central repo to local repo.
 So we are adding few lines here in the textfile, by using online UI(github.com) and fetching this text to the textfile in the local repo.
+
+In the previous commit we used git pull request successfully, and puled the data from Central repo to Local repo
+Now we are adding few more lines to test with git fetch and merge commands
+
