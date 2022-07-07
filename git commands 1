@@ -28,3 +28,4 @@ we can use reset command in 3 ways, 1. reset --hard 2. reset --soft, 3. reset by
 
 now we are going to test git revert command.
 
+we add few lines here, add and commit them and then push them to remote repo
