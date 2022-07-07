@@ -3,3 +3,7 @@ here i am going to use few git commands to learn and work on them
 ls - list sort
 pwd - present working directory
 Now we save this file and check with the commands ls, pwd, git add, git status, git commit.
+
+Until now we used push command to push the data from local repo to remote/central repo
+Now we are going to use pull request, to get the data from central repo to local repo.
+So we are adding few lines here in the textfile, by using online UI(github.com) and fetching this text to the textfile in the local repo.
