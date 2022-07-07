@@ -11,3 +11,6 @@ So we are adding few lines here in the textfile, by using online UI(github.com) 
 In the previous commit we used git pull request successfully, and puled the data from Central repo to Local repo
 Now we are adding few more lines to test with git fetch and merge commands
 
+
+Now we adding few lines here in central repo to learn about conflicts while pulling to local repo
+When A is working on the same file in the central repo, B is working on the same file in the Local repo and tried to push, but he failed to push. conflict occur
