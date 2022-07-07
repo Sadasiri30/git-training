@@ -14,3 +14,6 @@ Now we are adding few more lines to test with git fetch and merge commands
 Now we adding few lines here in local repo to learn about conflicts while pushing to central repo
 When A is worked on the same file and pushed to the central repo, B is working on the same file in the Local repo and tried to push, but he failed to push. A conflict occur
 
+
+Now we adding few lines here in central repo to learn about conflicts while pulling to local repo
+When A is working on the same file in the central repo, B is working on the same file in the Local repo and tried to push, but he failed to push. conflict occur
