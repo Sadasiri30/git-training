@@ -17,3 +17,11 @@ When A is worked on the same file and pushed to the central repo, B is working o
 
 Now we adding few lines here in central repo to learn about conflicts while pulling to local repo
 When A is working on the same file in the central repo, B is working on the same file in the Local repo and tried to push, but he failed to push. conflict occur
+
+Now we are going to undo the cahnges in working area
+for that we use restore command. 
+restore command is used to undo changes in working area and in staging area.
+reset command is used to undo the commits done in local repo, if not pushed to remote.
+we can use reset command in 3 ways, 1. reset --hard 2. reset --soft, 3. reset by default is mixed.
+
+
