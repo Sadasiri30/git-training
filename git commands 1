@@ -1,0 +1,5 @@
+Now I am going to add few lines for this text file
+here i am going to use few git commands to learn and work on them
+ls - list sort
+pwd - present working directory
+Now we save this file and check with the commands ls, pwd, git add, git status, git commit.
