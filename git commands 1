@@ -31,8 +31,12 @@ now we are going to test git revert command.
 we add few lines here, add and commit them and then push them to remote repo
 
 
+<<<<<<< HEAD
 then we try to work on remote repo
 
 added one line
 
 added 2nd line in the same file.
+=======
+then we try to work on remote repo
+>>>>>>> parent of 042bb98 (1 line)
